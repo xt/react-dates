@@ -58,7 +58,7 @@
     "@storybook/addon-info": "^4.0.3",
     "@storybook/addon-links": "^4.0.3",
     "@storybook/addon-options": "^4.0.0",
-    "@storybook/react": "^4.0.0",
+    "@storybook/react": "^4.0.3",
     "acorn": "^6.0.2",
     "airbnb-js-shims": "^2.1.1",
     "aphrodite": "^2.2.3",
